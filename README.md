@@ -19,7 +19,7 @@
 | 23.05.30 (화) 20시 | [1~2장 코틀린 기초](https://github.com/orgs/kotlin-books-study/discussions/1) |✅|
 | 23.06.05 (월) 20시 | [3장 함수 정의와 호출](https://github.com/orgs/kotlin-books-study/discussions/2) |✅|
 | 23.06.22 (목) 22시 | [4장 클래스, 객체, 인터페이스](https://github.com/orgs/kotlin-books-study/discussions/3) |✅|
-| 23.06.19 (월) 20시 | 5장 람다 |  |
+| 23.06.26 (월) 20시 | [5장 람다](https://github.com/orgs/kotlin-books-study/discussions/4) |✅|
 | 23.06.26 (월) 20시 | 6장 코틀린 타입 시스템 |  |
 | 23.07.03 (월) 20시 | 7~8장 연산자 오버로딩과 관례, 고차함수 |  |
 | 23.07.10 (월) 20시 | 9~10장 애너테이션과 리플랙션 |  |
