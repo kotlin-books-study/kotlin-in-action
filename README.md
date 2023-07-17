@@ -20,9 +20,9 @@
 | 23.06.05 (월) 20시 | [3장 함수 정의와 호출](https://github.com/orgs/kotlin-books-study/discussions/2) |✅|
 | 23.06.22 (목) 22시 | [4장 클래스, 객체, 인터페이스](https://github.com/orgs/kotlin-books-study/discussions/3) |✅|
 | 23.06.26 (월) 20시 | [5장 람다](https://github.com/orgs/kotlin-books-study/discussions/4) |✅|
-| 23.07.06 (목) 21시 | [6장 코틀린 타입 시스템](https://github.com/orgs/kotlin-books-study/discussions/5) |✅|
-| 23.07.13 (목) 21시 | 7장 연산자 오버로딩과 기타 관례 |  |
-| 23.07.00 (월) 20시 | 8장 고차 함수: 파라미터와 반환 값으로 람다 사용 |  |
+| 23.07.06 (목) 21시 30분| [6장 코틀린 타입 시스템](https://github.com/orgs/kotlin-books-study/discussions/5) |✅|
+| 23.07.13 (목) 21시 30분| [7장 연산자 오버로딩과 기타 관례](https://github.com/orgs/kotlin-books-study/discussions/6) |✅|
+| 23.07.20 (목) 21시 30분| 8장 고차 함수: 파라미터와 반환 값으로 람다 사용 |  |
 | 23.07.00 (월) 20시 | 9~10장 애너테이션과 리플랙션 |  |
 | 23.07.00 (월) 20시 | 11장 DSL 만들기 |  |
 
