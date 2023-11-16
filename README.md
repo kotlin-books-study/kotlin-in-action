@@ -22,9 +22,9 @@
 | 23.06.26 (월) 20시 | [5장 람다](https://github.com/orgs/kotlin-books-study/discussions/4) |✅|
 | 23.07.06 (목) 21시 30분| [6장 코틀린 타입 시스템](https://github.com/orgs/kotlin-books-study/discussions/5) |✅|
 | 23.07.13 (목) 21시 30분| [7장 연산자 오버로딩과 기타 관례](https://github.com/orgs/kotlin-books-study/discussions/6) |✅|
-| 23.07.20 (목) 21시 30분| 8장 고차 함수: 파라미터와 반환 값으로 람다 사용 |  |
-| 23.07.00 (월) 20시 | 9~10장 애너테이션과 리플랙션 |  |
-| 23.07.00 (월) 20시 | 11장 DSL 만들기 |  |
+| 23.07.20 (목) 21시 30분| [8장 고차 함수: 파라미터와 반환 값으로 람다 사용](https://github.com/orgs/kotlin-books-study/discussions/7) |✅|
+| 23.07.00 (월) 20시 | [9~10장 애너테이션과 리플랙션](https://github.com/orgs/kotlin-books-study/discussions/8) |✅|
+| 23.07.00 (월) 20시 | [11장 DSL 만들기](https://github.com/orgs/kotlin-books-study/discussions/9) |✅|
 
 1. 각 책의 진도에 해당하는 부분에 대해, **스터디 이틀전(토요일) 24시까지 문제 2개** [Discussions](https://github.com/orgs/kotlin-books-study/discussions)에 제출
 	- 완전히 겹치는 문제의 경우 미제출로 간주합니다.
